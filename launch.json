@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch 3Sum",
+            "request": "launch",
+            "mainClass": "Solution",  // 确保这里是包含main方法的类
+            "projectName": "LeetCode_Solution"  // 你的项目名称
+        }
+    ]
+}
